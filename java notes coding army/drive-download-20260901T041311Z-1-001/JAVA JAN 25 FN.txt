@@ -1,0 +1,1213 @@
+﻿6406534158571.   
+ 
+
+6406534158572.   
+ 
+Sub-Section Number : 5
+Sub-Section Id : 640653189713
+Question Shuffling Allowed : Yes
+   
+Question Number : 302 Question Id : 6406531230829 Question Type : SA
+Correct Marks : 6
+Question Label : Short Answer Question
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+3
+   
+Question Number : 303 Question Id : 6406531230830 Question Type : SA
+Correct Marks : 6
+Question Label : Short Answer Question
+
+Response Type : Numeric
+Evaluation Required For SA : Yes
+Show Word Count : Yes
+Answers Type : Equal
+Text Areas : PlainText
+Possible Answers :
+149
+   
+   
+
+Java
+
+
+
+Section Id : 64065386918
+Section Number : 14
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 24
+Number of Questions to be attempted : 24
+Section Marks : 100
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and 
+
+No
+Clear Response :
+Section Maximum Duration : 0
+Section Minimum Duration : 0
+Section Time In : Minutes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653189714
+Question Shuffling Allowed : No
+   
+Question Number : 304 Question Id : 6406531230831 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : PROGRAMMING CONCEPTS 
+USING JAVA (COMPUTER BASED EXAM)" 
+ 
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+ 
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS 
+REGISTERED BY YOU)
+Options :
+6406534158575.  YES
+6406534158576.  NO
+Sub-Section Number : 2
+Sub-Section Id : 640653189715
+Question Shuffling Allowed : Yes
+   
+Question Number : 305 Question Id : 6406531230832 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+6406534158577.  The code always prints 2000.
+6406534158578.  The code prints any number in the range 1000 to 2000
+6406534158579.  The code prints any number in the range 0 to 1000
+6406534158580.  The code always prints 1000.
+   
+Question Number : 306 Question Id : 6406531230833 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158581.   
+ 
+
+6406534158582.   
+ 
+
+6406534158583.   
+
+
+
+ 
+
+6406534158584.   
+ 
+   
+Question Number : 307 Question Id : 6406531230834 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+
+
+6406534158585.   
+ 
+
+6406534158586.   
+ 
+
+6406534158587.   
+ 
+
+6406534158588.   
+ 
+   
+Question Number : 308 Question Id : 6406531230835 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158589.   
+ 
+
+6406534158590.   
+ 
+
+6406534158591.   
+ 
+
+6406534158592.   
+ 
+   
+Question Number : 309 Question Id : 6406531230836 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158593.   
+ 
+6406534158594.  
+
+
+
+ 
+ 
+
+6406534158595.   
+ 
+
+6406534158596.   
+ 
+   
+Question Number : 310 Question Id : 6406531230837 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158597.   
+ 
+
+6406534158598.   
+ 
+
+6406534158599.   
+ 
+
+
+
+6406534158600.   
+ 
+   
+Question Number : 311 Question Id : 6406531230838 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158601.   
+
+
+
+ 
+
+6406534158602.   
+ 
+
+6406534158603.   
+ 
+
+6406534158604.   
+ 
+   
+Question Number : 312 Question Id : 6406531230839 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158605.   
+ 
+
+6406534158606.   
+ 
+
+6406534158607.   
+ 
+
+6406534158608.   
+
+
+
+ 
+   
+Question Number : 313 Question Id : 6406531230840 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158609.   
+ 
+
+6406534158610.   
+ 
+
+6406534158611.   
+ 
+
+
+
+6406534158612.   
+ 
+   
+Question Number : 314 Question Id : 6406531230841 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158613.   
+ 
+
+6406534158614.   
+ 
+
+6406534158615.   
+ 
+
+6406534158616.   
+ 
+   
+Question Number : 315 Question Id : 6406531230842 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158617.   
+ 
+
+6406534158618.   
+ 
+
+6406534158619.   
+ 
+
+6406534158620.   
+
+
+
+ 
+   
+Question Number : 316 Question Id : 6406531230843 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158621.   
+ 
+
+6406534158622.   
+ 
+
+6406534158623.   
+ 
+6406534158624.  
+
+
+
+ 
+ 
+   
+Question Number : 317 Question Id : 6406531230844 Question Type : MCQ
+Correct Marks : 4
+Question Label : Multiple Choice Question
+
+
+
+Options :
+
+6406534158625.   
+ 
+
+6406534158626.   
+ 
+
+6406534158627.   
+ 
+
+6406534158628.   
+ 
+Sub-Section Number : 3
+Sub-Section Id : 640653189716
+Question Shuffling Allowed : Yes
+   
+Question Number : 318 Question Id : 6406531230845 Question Type : MCQ
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+Options :
+
+
+
+6406534158629.   
+ 
+
+6406534158630.   
+ 
+
+6406534158631.   
+ 
+
+6406534158632.   
+ 
+   
+Question Number : 319 Question Id : 6406531230846 Question Type : MCQ
+Correct Marks : 5
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158633.   
+ 
+6406534158634.  
+
+
+
+ 
+ 
+
+6406534158635.   
+ 
+
+6406534158636.   
+ 
+Sub-Section Number : 4
+Sub-Section Id : 640653189717
+Question Shuffling Allowed : Yes
+   
+Question Number : 320 Question Id : 6406531230847 Question Type : MCQ
+Correct Marks : 6
+Question Label : Multiple Choice Question
+
+
+
+ 
+ 
+
+
+
+Options :
+
+6406534158637.   
+ 
+
+6406534158638.   
+ 
+
+6406534158639.   
+ 
+
+6406534158640.   
+ 
+Sub-Section Number : 5
+Sub-Section Id : 640653189718
+Question Shuffling Allowed : Yes
+   
+Question Number : 321 Question Id : 6406531230848 Question Type : MSQ
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+Which of the following statements is/are correct?
+Options :
+6406534158641.  The heap stores dynamically allocated data.
+
+
+
+6406534158642.  Activation records created for functions are allocated on the heap.
+6406534158643.  The heap storage needs to be explicitly requested by the programmer.
+6406534158644.  Storage allocated on the heap cannot be deallocated in any way.
+   
+Question Number : 322 Question Id : 6406531230849 Question Type : MSQ
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Options :
+
+
+
+6406534158645.   
+ 
+
+6406534158646.   
+ 
+
+6406534158647.   
+ 
+
+6406534158648.   
+ 
+   
+Question Number : 323 Question Id : 6406531230850 Question Type : MSQ
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+
+
+Options :
+
+6406534158649.   
+ 
+6406534158650.  
+
+
+
+ 
+ 
+
+6406534158651.   
+ 
+
+6406534158652.   
+ 
+   
+Question Number : 324 Question Id : 6406531230851 Question Type : MSQ
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+
+
+Options :
+
+6406534158653.   
+ 
+
+6406534158654.   
+ 
+
+6406534158655.   
+ 
+
+6406534158656.   
+ 
+   
+Question Number : 325 Question Id : 6406531230852 Question Type : MSQ
+Correct Marks : 4 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+
+
+Options :
+
+6406534158657.   
+ 
+
+6406534158658.   
+ 
+
+6406534158659.   
+ 
+6406534158660.  
+
+
+
+ 
+ 
+Sub-Section Number : 6
+Sub-Section Id : 640653189719
+Question Shuffling Allowed : Yes
+   
+Question Number : 326 Question Id : 6406531230853 Question Type : MSQ
+Correct Marks : 6 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+
+Options :
+6406534158661.  Line 2
+6406534158662.  Line 7
+6406534158663.  Line 11
+6406534158664.  Line 12
+6406534158665.  Line 18
+   
+Question Number : 327 Question Id : 6406531230854 Question Type : MSQ
+Correct Marks : 6 Max. Selectable Options : 0
+
+
+
+Question Label : Multiple Select Question
+
+ 
+ 
+
+
+
+Options :
+
+6406534158666.   
+ 
+
+6406534158667.   
+ 
+
+6406534158668.   
+ 
+
+6406534158669.   
+ 
+   
+   
+
+TDS
+Section Id : 64065386919
+Section Number : 15
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 17
+Number of Questions to be attempted : 17
+
+
+
+Section Marks : 40
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Enable Mark as Answered Mark for Review and 
+Clear Response : No
+
+Section Maximum Duration : 0
+Section Minimum Duration : 0
+Section Time In : Minutes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653189720
+Question Shuffling Allowed : No
+   
+Question Number : 328 Question Id : 6406531230855 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : TOOLS IN DATA SCIENCE 
+(COMPUTER BASED EXAM)" 
+ 
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+ 
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS 
+REGISTERED BY YOU)
+Options :
+6406534158670.  YES
+6406534158671.  NO
+Sub-Section Number : 2
+Sub-Section Id : 640653189721
+Question Shuffling Allowed : Yes
+   
+Question Number : 329 Question Id : 6406531230856 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+You receive a tab-delimited file where some numeric fields are interpreted as dates (e.g., "3/10" 
+becomes "March 10" in Excel). What is the most effective way to handle this in Text to-Columns?
+Options :
+6406534158672.  Change the delimiter to commas before opening the file
+6406534158673.  Format the column as Text before applying Text-to-Columns
+6406534158674.  Use the General data format option in Text-to-Columns
+6406534158675.  Manually change the affected cells back to numbers after splitting
+
+
+
+   
+Question Number : 330 Question Id : 6406531230858 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In Python, which statement correctly handles exceptions and ensures that cleanup code is 
+executed?
+Options :
+
+6406534158680.   
+ 
+
+6406534158681.   
+ 
+
+6406534158682.   
+ 
+
+6406534158683.   
+ 
+   
+Question Number : 331 Question Id : 6406531230859 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A research team has a pandas dataframe of medical trial participants. To quickly identify how 
+many different treatment groups exist, which Pandas method would be most efficient?
+Options :
+6406534158684.  `len(set(column))`
+6406534158685.  `column.count()`
+6406534158686.  `column.nunique()`
+6406534158687.  `column.value_counts()`
+   
+Question Number : 332 Question Id : 6406531230860 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Options :
+6406534158688.  To track changes to specific files
+6406534158689.  To specify files that Git should not track
+6406534158690.  To define Git repository settings
+6406534158691.  To list contributors to the repository
+   
+Question Number : 333 Question Id : 6406531230861 Question Type : MCQ
+Correct Marks : 1
+
+
+
+Question Label : Multiple Choice Question
+A developer wants to examine API request headers and responses to debug an issue with a failing 
+API call. Where in Chrome DevTools should they look?
+Options :
+6406534158692.  Console tab
+6406534158693.  Application tab
+6406534158694.  Network tab
+6406534158695.  Sources tab
+   
+Question Number : 334 Question Id : 6406531230863 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A pharmaceutical researcher is testing a new drug's effectiveness. If the p-value is 0.03 in a 
+regression analysis, what can be concluded about the drug's impact?
+Options :
+6406534158700.  The drug has no significant effect
+6406534158701.  The result is statistically significant at a 5% significance level
+6406534158702.  More data collection is needed
+6406534158703.  The sample size is too small
+   
+Question Number : 335 Question Id : 6406531230864 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A data analyst receives a messy dataset with inconsistent company names like "Apple", "Apple 
+Inc.", and "Apple Incorporated". Which tool would best standardize these entries?
+Options :
+6406534158704.  Excel's Find and Replace
+6406534158705.  OpenRefine's clustering feature
+6406534158706.  Python's string manipulation
+6406534158707.  Manual editing
+   
+Question Number : 336 Question Id : 6406531230865 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A web developer wants to analyze the load time and resources of a webpage. Which Chrome 
+DevTools feature provides comprehensive network request information?
+Options :
+6406534158708.  Console tab
+6406534158709.  Network tab
+6406534158710.  Elements tab
+
+
+
+6406534158711.  Sources tab
+   
+Question Number : 337 Question Id : 6406531230866 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is NOT a feature typically found in modern IDEs?
+Options :
+6406534158712.  Syntax highlighting
+6406534158713.  Integrated debugger
+6406534158714.  Version control integration
+6406534158715.  Native hardware virtualization
+   
+Question Number : 338 Question Id : 6406531230867 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following describes the primary use of Kumu?
+Options :
+6406534158716.  Building financial models
+6406534158717.  Creating system maps and visualizing relationships
+6406534158718.  Performing real-time data analysis
+6406534158719.  Designing geographic maps for navigation
+Sub-Section Number : 3
+Sub-Section Id : 640653189722
+Question Shuffling Allowed : Yes
+   
+Question Number : 339 Question Id : 6406531230857 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which HTTP method is idempotent, meaning multiple identical requests have the same effect as a 
+single request?
+Options :
+6406534158676.  POST
+6406534158677.  PUT
+6406534158678.  GET
+6406534158679.  DELETE
+Sub-Section Number : 4
+Sub-Section Id : 640653189723
+Question Shuffling Allowed : Yes
+   
+Question Number : 340 Question Id : 6406531230862 Question Type : MSQ
+
+
+
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+A researcher needs to perform spatial data operations like buffering and visualize the results on 
+an interactive map. Which libraries would be most suitable?
+Options :
+6406534158696.  Geopandas
+6406534158697.  Folium
+6406534158698.  Matplotlib
+6406534158699.  Shapely
+Sub-Section Number : 5
+Sub-Section Id : 640653189724
+Question Shuffling Allowed : No
+   
+Question Id : 6406531230868 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (341 to 343)
+Question Label : Comprehension
+Scenario 1: 
+ 
+Sarah is working on a research paper about renewable energy technologies and decides to use an 
+LLM to help her draft some sections. 
+ 
+Based on the above data, answer the given subquestions.
+Sub questions
+ 
+Question Number : 341 Question Id : 6406531230869 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Sarah prompts the LLM: "Write a comprehensive overview of solar energy advancements in the 
+last decade." 
+ 
+The instructor wants to ensure that the LLM provides concise, clear, and helpful answers. What is 
+the role of the system prompt in guiding the LLM's behavior?
+Options :
+6406534158720.  It defines the LLM’s tone, behavior, and response style to align with the 
+instructor's teaching goals.
+6406534158721.  It provides a list of pre-written responses to be used in all classroom 
+scenarios.
+6406534158722.  It prevents the LLM from ever deviating from pre-determined responses, 
+regardless of the context.
+6406534158723.  It configures the LLM to only respond to specific commands, disregarding any 
+other input.
+ 
+
+
+
+Question Number : 342 Question Id : 6406531230870 Question Type : MSQ
+Correct Marks : 2 Max. Selectable Options : 0
+Question Label : Multiple Select Question
+When Sarah submits increasingly complex prompts about solar energy, which of the following 
+statements are TRUE regarding LLM cost and usage
+Options :
+6406534158724.  LLM costs are primarily calculated based on the number of tokens processed
+6406534158725.  LLM usage is always free for academic research
+6406534158726.  The total length of both input prompt and output response impacts the overall 
+cost
+6406534158727.  LLM costs are fixed regardless of the complexity of the query
+6406534158728.  Token count has no relation to computational resources required
+ 
+Question Number : 343 Question Id : 6406531230871 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Sarah wants to improve the specificity of her LLM prompt. Which prompt is likely to generate the 
+most precise and useful response?
+Options :
+6406534158729.  "Tell me about solar energy"
+6406534158730.  "Discuss solar energy advancements"
+6406534158731.  "Outline 4 key solar energy technological breakthroughs from 2014-2024, 
+including specific efficiency improvements and implementation challenges"
+6406534158732.  "Write a paragraph about solar energy"
+Sub-Section Number : 6
+Sub-Section Id : 640653189725
+Question Shuffling Allowed : No
+   
+Question Id : 6406531230872 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (344 to 348)
+Question Label : Comprehension
+Scenario 2 
+ 
+Wildfire Emergency Evacuation Planning 
+ 
+Background: 
+A wildfire is threatening a rural mountain region, and emergency services need to coordinate 
+evacuation routes for four remote communities. The Emergency Management Center is located at 
+a central command post, and must plan the most efficient evacuation route to ensure rapid and 
+safe community evacuation. 
+ 
+The four communities are: 
+
+
+
+Pine Ridge Settlement (Latitude: 38.7456, Longitude: -120.8765) 
+Mountain View Village (Latitude: 38.6987, Longitude: -120.9234) 
+River Valley Community (Latitude: 38.7123, Longitude: -120.7654) 
+Forest Creek Hamlet (Latitude: 38.6789, Longitude: -120.8901) 
+ 
+Central Command Post Location: 
+(Latitude: 38.7200, Longitude: -120.8500) 
+ 
+Based on the above data, answer the given subquestions.
+Sub questions
+ 
+Question Number : 344 Question Id : 6406531230873 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+During the wildfire emergency, multiple teams are updating evacuation plans. Which Git 
+command would a team member use to get the latest evacuation route updates?
+Options :
+6406534158733.  git commit
+6406534158734.  git checkout
+6406534158735.  git pull
+6406534158736.  git add
+ 
+Question Number : 345 Question Id : 6406531230874 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+An emergency responder needs to search through evacuation logs to find all entries related to 
+"Pine Ridge". Which command would be most useful?
+Options :
+
+6406534158737.   
+ 
+
+6406534158738.   
+ 
+
+6406534158739.   
+ 
+
+6406534158740.   
+ 
+ 
+Question Number : 346 Question Id : 6406531230875 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+In a resource-constrained emergency environment, which deployment method would be MOST 
+appropriate for the Python-based evacuation management system?
+
+
+
+Options :
+6406534158741.  Running scripts locally on a single emergency responder's laptop
+6406534158742.  Distributing Python source code to all emergency personnel
+6406534158743.  Containerized deployment with Docker for consistent execution across 
+multiple devices
+6406534158744.  Full cloud migration requiring constant internet connectivity
+ 
+Question Number : 347 Question Id : 6406531230876 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which computational tool would be MOST APPROPRIATE for optimizing the complex evacuation 
+route considering multiple communities?
+Options :
+6406534158745.  Microsoft Excel for manual distance calculations
+6406534158746.  Google Maps for route visualization
+6406534158747.  Python libraries like NetworkX or OR-Tools for route optimization
+6406534158748.  QGIS for static route mapping
+ 
+Question Number : 348 Question Id : 6406531230877 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is the primary advantage of using the Haversine formula in emergency route planning?
+Options :
+6406534158749.  Calculating exact road distances
+6406534158750.  Determining travel time under specific conditions
+6406534158751.  Computing great-circle distances on a spherical Earth
+6406534158752.  Measuring elevation changes in mountainous terrain
+Sub-Section Number : 7
+Sub-Section Id : 640653189726
+Question Shuffling Allowed : No
+   
+Question Id : 6406531230878 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (349 to 359)
+Question Label : Comprehension
+Scenario 3 
+ 
+You are provided with a Gzipped Apache log file from a website having the below data in each row. 
+ 
+
+
+
+ 
+ 
+The fields are separated by spaces and quoted by double quotes ("). Unlike CSV files, quoted fields 
+are escaped via "and not". All data is in the GMT-0500 timezone and the questions were based in 
+this same time zone. 
+ 
+Use the information given and answer the sub-questions. 
+ 
+Note: Assume that you are using Python codes for log analysis 
+ 
+Sub questions
+ 
+Question Number : 349 Question Id : 6406531230879 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following is a valid log entry based on the provided format?
+Options :
+6406534158753.  192.168.1.1 - - [12/Dec/2024:14:05:59 -0500] "GET /image.jpg HTTP/1.1" 200 
+1234 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/87.0.4280.88 Safari/537.36" www.s-anand.net 192.254.190.217
+6406534158754.  192.168.1.1 - - [12/Dec/2024:14:05:59 -0500] "POST /image.jpg INVALID" 200 
+1234 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/87.0.4280.88 Safari/537.36" www.s-anand.net 192.254.190.217
+6406534158755.  192.168.1.1 - - [12/Dec/2024:14:05:59 -0500] "PUT /image.jpg HTTP/1.1" OK 
+1234 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/87.0.4280.88 Safari/537.36" www.s-anand.net 192.254.190.217
+6406534158756.  203.0.113.7 - - [14/Dec/2024:16:45:11 -0500] "GET /index.html HTTP/1.1" 200 
+3500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/90.0.4430.93 Safari/537.36" www.s-anand.net 192.254.190.219
+ 
+Question Number : 350 Question Id : 6406531230880 Question Type : MCQ
+Correct Marks : 1
+
+
+
+Question Label : Multiple Choice Question
+Which of the following fields are necessary to filter "POST requests made for pages under 
+/images/ from 15:00 to 18:00 on Mondays"?
+Options :
+6406534158757.  Time, Request, Method, URL
+6406534158758.  Time, Method, Status, Size
+6406534158759.  Time, Method, URL, Referer
+6406534158760.  Time, Status, URL, Server
+ 
+Question Number : 351 Question Id : 6406531230881 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If the time in the log is stored in the format [01/May/2024:00:00:00 -0500], which of the following 
+time formats should you use to parse it correctly?
+Options :
+
+6406534158761.   
+ 
+
+6406534158762.   
+ 
+6406534158763.   
+ 
+
+6406534158764.   
+ 
+ 
+Question Number : 352 Question Id : 6406531230882 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following methods is best for identifying if a log entry’s timestamp corresponds to a 
+Sunday?
+Options :
+6406534158765.  Check if timestamp.dayname() == 'Sunday'
+6406534158766.  Check if timestamp.weekday() == 5
+6406534158767.  Check if timestamp.strftime('%A') == 'Sunday'
+6406534158768.  Check if timestamp.weekday() == 6
+ 
+Question Number : 353 Question Id : 6406531230883 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+How would you identify log entries where the time is between 16:00 and 18:59 on Sundays?
+Options :
+6406534158769.  Check if 16 <= timestamp.hour < 18
+
+
+
+6406534158770.  Check if 16 <= timestamp.hour < 19
+6406534158771.  Check if 16 < timestamp.hour < 19
+6406534158772.  Check if timestamp.hour in range(16, 20)
+ 
+Question Number : 354 Question Id : 6406531230884 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+How would you extract the HTTP protocol version (e.g., HTTP/1.1) from the Request field "GET 
+/blog/ HTTP/1.1"?
+Options :
+6406534158773.  Use request.split('/')[1]
+6406534158774.  Use request.split(' ')[2]
+6406534158775.  Use request.split(' ')[1]
+6406534158776.  Use request.split('/')[2]
+ 
+Question Number : 355 Question Id : 6406531230885 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Options :
+
+6406534158777.   
+ 
+
+6406534158778.   
+ 
+
+6406534158779.   
+ 
+
+6406534158780.   
+ 
+ 
+Question Number : 356 Question Id : 6406531230886 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+
+Options :
+
+
+
+6406534158781.   
+ 
+
+6406534158782.   
+ 
+
+6406534158783.   
+ 
+
+6406534158784.   
+ 
+ 
+Question Number : 357 Question Id : 6406531230887 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+How would you identify if the log entry’s HTTP status code indicates a redirection request? 
+(Assume that status is correctly stored in the variable ‘status’)
+Options :
+6406534158785.  status in [301, 302, 303]
+6406534158786.  200 < status < 400
+6406534158787.  300 <= status < 400
+6406534158788.  status in range(299, 400)
+ 
+Question Number : 358 Question Id : 6406531230888 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+After filtering the log entries (in a list filtered_entries), which of the following is the best way to 
+count the number of requests with a 404 status code for pages under /error/?
+Options :
+6406534158789.  Use len(filtered_entries)
+6406534158790.  Use len(entries)
+6406534158791.  Use sum(1 for entry in entries)
+6406534158792.  None of these
+ 
+Question Number : 359 Question Id : 6406531230889 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If the count of log entries appears much larger than expected, which of the following could be the 
+reason?
+Options :
+6406534158793.  The filter for Monday is incorrect.
+6406534158794.  The filter for time range is incorrect.
+6406534158795.  The filter for HTTP method is incorrect.
+
+
+
+6406534158796.  Any of these could be the reason.
+Sub-Section Number : 8
+Sub-Section Id : 640653189727
+Question Shuffling Allowed : No
+   
+Question Id : 6406531230890 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (360 to 363)
+Question Label : Comprehension
+Scenario 4 
+ 
+A climate science professor is developing an AI-powered learning assistant called ClimateBot to 
+help students understand complex climate modeling techniques and computational approaches 
+to environmental data analysis. 
+ 
+Guidelines for ClimateBot: 
+ 
+- Engage students through thought-provoking questions 
+ 
+- Encourage independent problem-solving 
+ 
+- Guide students to discover solutions autonomously 
+ 
+- Provide conceptual insights, not direct answers 
+ 
+- Help students develop robust computational and analytical skills 
+ 
+Based on the above data, answer the given subquestions.
+Sub questions
+ 
+Question Number : 360 Question Id : 6406531230891 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is the primary purpose of the system prompt in controlling an AI learning assistant's 
+behavior?
+Options :
+6406534158797.  To create a fixed set of predetermined responses for every possible student 
+query
+6406534158798.  To define the core communication strategy, learning approach, and 
+interaction guidelines
+6406534158799.  To replace the need for human instructor guidance completely
+6406534158800.  To limit the AI's ability to understand complex scientific concepts
+ 
+Question Number : 361 Question Id : 6406531230892 Question Type : MCQ
+
+
+
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Choose the best system prompt that achieves the instructor's goals.
+Options :
+6406534158801.  "You are a climate science assistant. Provide direct answers and complete 
+code solutions whenever students ask."
+6406534158802.  "You are an interactive learning assistant for climate science. Guide students 
+through complex concepts by asking reflective questions. Avoid giving direct solutions. Encourage 
+independent thinking and help students develop problem-solving skills."
+6406534158803.  "You are a simple computational tool. Provide exact numerical answers and 
+full code implementations for any climate modeling question."
+6406534158804.  "You are a climate science assistant. Help students and tell them to consult 
+textbooks for all information."
+ 
+Question Number : 362 Question Id : 6406531230893 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+A student asks: "How do I calculate the global warming potential of different greenhouse gases?" 
+ 
+Choose the most pedagogically effective response:
+Options :
+6406534158805.  "The global warming potential (GWP) is calculated by multiplying the gas's 
+radiative efficiency by its atmospheric lifetime. Here's the exact formula: [provides complete 
+formula and calculation method]"
+6406534158806.  "Global warming potential (GWP) is determined by factors like a gas's 
+molecular structure, atmospheric lifetime, and interaction with radiation. Different gases have 
+different GWPs based on these characteristics."
+6406534158807.  "Let's break this down. What do you already know about greenhouse gases 
+and their impact on climate? Have you considered how different molecules might have varying 
+abilities to trap heat?"
+6406534158808.  "I cannot help you with this calculation. Please refer to your textbook for a 
+complete explanation."
+ 
+Question Number : 363 Question Id : 6406531230894 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Assume that the ClimateBot, an advanced learning assistant for climate science students.Its 
+primary mission is to foster critical thinking, scientific reasoning, and deep understanding of 
+complex environmental systems by using a RAG (Retrieval-Augmented Generation) system.  
+The RAG system works as follows: 
+ 
+1. Climate Data Storage: Comprehensive climate research materials (like reports, research 
+papers and notes) are split into smaller chunks. Each chunk is vectorized using an embedding 
+model. 
+
+
+
+2. Vector Database: The vectorized chunks are stored in a FAISS or Weaviate vector database. 
+3. Retriever: When a student asks a question, the system retrieves the most relevant content 
+(based on semantic similarity) from the vector database. 
+4. LLM Contextualization: The retrieved content is added as context in the assistant's prompt, 
+which is then used by the LLM (like GPT-4) to generate a personalized, context-aware response. 
+ 
+Which of the following correctly describes the process flow of a RAG-based system for the IITM 
+TDS Teaching Assistant?
+Options :
+
+6406534158809.   
+ 
+
+6406534158810.   
+ 
+
+6406534158811.   
+ 
+
+6406534158812.
